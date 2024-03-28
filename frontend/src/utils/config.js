@@ -1,0 +1,1 @@
+export const backendURL = "https://city-cabbie.vercel.app/api/v1";
